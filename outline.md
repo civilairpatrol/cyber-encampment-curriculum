@@ -1,3 +1,9 @@
+---
+description: >-
+  This is the outline of the curriculum content along with recommended time
+  durations for each major section
+---
+
 * Individual safe computing practices \(10-15 minutes\):
 
   * Understanding the importance of protecting personal information online \(properly applying privacy settings, minimizing the leakage of information via social media posts, only posting content they are comfortable with parents and school/work officials seeing\)
