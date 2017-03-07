@@ -12,7 +12,7 @@
 
 ## Body
 
-#### MP1. Individual safe computing practices: {#mp1}
+#### MP1. Individual safe computing practices \(10-15 minutes\): {#mp1}
 
 A. Understanding the importance of protecting personal information online \(properly applying privacy settings, minimizing the leakage of information via social media posts, only posting content they are comfortable with parents and school/work officials seeing\)
 
@@ -24,7 +24,7 @@ D. Recognizing attempts of phishing and social engineering \(email, private mess
 
 **TRANSITION:**
 
-#### MP2. Importance of cyber defense and cybersecurity to national interests: {#mp2}
+#### MP2. Importance of cyber defense and cybersecurity to national interests \(10-15 minutes\): {#mp2}
 
 A. The role that computer systems and telecommunications play as a critical infrastructure sector in the everyday lives of citizens
 
@@ -34,7 +34,7 @@ C. The value for criminals and foreign governments to exploit weaknesses in cybe
 
 **TRANSITION:**
 
-#### MP3. Cyber career exploration: {#mp3}
+#### MP3. Cyber career exploration \(15-20 minutes\): {#mp3}
 
 A. Air Force and sister service cyber system/warfare operations career fields \(enlisted and officer\)
 
@@ -48,7 +48,7 @@ E. Internships and other experience-building engagements within public or privat
 
 **TRANSITION:**
 
-#### MP4. CAP cyber-related cadet activities: {#mp4}
+#### MP4. CAP cyber-related cadet activities \(5-10 minutes\): {#mp4}
 
 A. Cyber Defense Training Academy
 
